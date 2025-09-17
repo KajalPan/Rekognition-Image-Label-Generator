@@ -187,8 +187,6 @@ Labels for 4.jpg → A landscape from the Netherlands:
 - Rural (Confidence: 80.28%)
 ```
 
-It’s very interesting noticing which objects Rekognition chooses to detect and label vs not!
-
 Labels for 5.jpg → Anime art of a girl:
 
 ![Anime](images/anime_girl.png)
@@ -203,6 +201,8 @@ Labels for 5.jpg → Anime art of a girl:
 
 Labels for 6.jpg → Three Bernese mountain dog puppies:
 
+![Anime](images/puppies.png)
+
 ```powershell
 - Animal (Confidence: 98.45%)
 - Canine (Confidence: 98.45%)
@@ -212,7 +212,3 @@ Labels for 6.jpg → Three Bernese mountain dog puppies:
 - Puppy (Confidence: 97.83%)
 - Appenzeller (Confidence: 84.46%)
 ```
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c4025823-af29-4f42-9b86-4b9e90cbcd5a/175db8c4-25ce-49e7-9787-379f0ccda824/image.png)
-
-So cute!
