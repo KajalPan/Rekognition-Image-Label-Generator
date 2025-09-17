@@ -1,5 +1,4 @@
-# aws-ai-projects
-Collection of my AI projects created using AWS!
+# Rekognition Label Generator
 ## **Project Overview**
 
 ![Arcitecture Diagram](images/diagram.png)
